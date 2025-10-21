@@ -5,7 +5,7 @@ TakTak est une application web permettant la gestion des restaurants, plats et c
 ## 📸 Aperçu du projet
 
 ### Page d’accueil
-![Homepage](docs/homepage.png)
+![Homepage](docs/homepage1.png)
 
 ### Tableau de bord administrateur
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/admin_dashboard.png)
